@@ -9,7 +9,7 @@ To run your code in docker use
 sudo docker-compose up --build
 ```
 
-## Dont install deno every rebuild
+## Or: Dont install deno every rebuild
 
 If you want quicker build times or decide when a new version of deno should be installed, move the deno install section before copy like this:
 
